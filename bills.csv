@@ -1,0 +1,2 @@
+Invoice no.,Customer name,Billing address,Customer GSTIN,Item name,Quantity,Price,Actual amount,SGST rate,SGST amount,CGST rate,CGST amount,IGST rate,IGST amount,Total tax rate, Total tax amount,Total amount,Date-time
+1,sdit college,dausa,test gst,windows 10,2,1000,2000,2,40,1,20,0,0,3,60,2060,May 25 16:26:34 2020
